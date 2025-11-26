@@ -1,0 +1,17 @@
+digraph Erdos_Renyi_nodes_10_edges_10_Dijkstra_nodeSource_5 {
+"nodo_4" [label="nodo_4 (39)"];
+"nodo_9" [label="nodo_9 (19)"];
+"nodo_6" [label="nodo_6 (34)"];
+"nodo_1" [label="nodo_1 (14)"];
+"nodo_0" [label="nodo_0 (30)"];
+"nodo_7" [label="nodo_7 (13)"];
+"nodo_5" [label="nodo_5 (0)"];
+"nodo_2" [label="nodo_2 (3)"];
+"nodo_9" -> "nodo_4" [weight=20];
+"nodo_1" -> "nodo_6" [weight=20];
+"nodo_7" -> "nodo_0" [weight=17];
+"nodo_1" -> "nodo_9" [weight=5];
+"nodo_7" -> "nodo_1" [weight=1];
+"nodo_5" -> "nodo_7" [weight=13];
+"nodo_5" -> "nodo_2" [weight=3];
+}

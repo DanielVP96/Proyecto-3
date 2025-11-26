@@ -1,0 +1,13 @@
+digraph BarabasiAlbert_nodes_200_GradoMax_3_Dijkstra_nodeSource_5 {
+"nodo_0" [label="nodo_0 (18)"];
+"nodo_2" [label="nodo_2 (6)"];
+"nodo_4" [label="nodo_4 (18)"];
+"nodo_3" [label="nodo_3 (15)"];
+"nodo_1" [label="nodo_1 (5)"];
+"nodo_5" [label="nodo_5 (0)"];
+"nodo_2" -> "nodo_0" [weight=12];
+"nodo_3" -> "nodo_4" [weight=3];
+"nodo_1" -> "nodo_3" [weight=10];
+"nodo_5" -> "nodo_2" [weight=6];
+"nodo_5" -> "nodo_1" [weight=5];
+}
